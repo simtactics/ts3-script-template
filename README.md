@@ -6,9 +6,9 @@ This .NET project is designed to get you started in creating scripting mods for 
 
 ### Prerequisites
 
-* Visual Studio
-  * .NET desktop workload
-* TS3: Patch 1.69 (Origin)
+- Visual Studio
+  - .NET desktop workload
+- TS3: Patch 1.69 (Origin)
 
 ## Disclaimer
 
